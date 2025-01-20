@@ -12,33 +12,39 @@ There are some more problems presented by the company which your model should be
 
 
 --Steps Followed
-1.Reading Data
 
-2.Cleaning Data
+Reading Data
 
-3.EDA
+Cleaning Data
 
-4.Creating Dummy
+EDA
 
-5.Splitting data into train and test set
+Creating Dummy
 
-6.Building Model
+Splitting data into train and test set
 
-7.Making Predictions
+Building Model
 
-8.Model Evaluation
+Making Predictions
 
-9.ROC Curve
+Model Evaluation
 
-10.Prediction on test set
+ROC Curve
 
-11.Precision- Recall
+Prediction on test set
+
+Precision- Recall
 
 --Details of files given
 
-Lead Score Case Study Aayushi Meenu .ipynb : The python file showing coding and data analysis
+Lead Score Case Study BHASKAR GHOSH .ipynb : The python file showing coding and data analysis
+
 Assignment Subjective Questions.pdf : Some subjective questions answered
+
 Lead Score Case Study.pdf : Final Presentation
+
 Leads.csv : Data worked on
+
 Leads Data Dictionary.xlsx : Data Dictionary
+
 Summary.pdf : Summary on what's done in the entire py file
